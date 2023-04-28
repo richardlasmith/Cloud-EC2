@@ -102,9 +102,25 @@ Review the EC2 instance before launching.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mPvX1xq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+You should get a success launch, if all information was correctly entered.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/EKE4fYN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now the EC2 instance is running, you can copy the public IPv4 address for testing.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/mPvX1xq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Congrats, on creating and launching the Amazon EC2 Instance!.
 </p>
 <br />
