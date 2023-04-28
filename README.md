@@ -65,7 +65,7 @@ On the drop down arrow, select Amazon Linux 2AMI (HVM)- Kernel 5.10, SSD Volume 
 <img src="https://i.imgur.com/PdGDTnH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Under Network settings, Use the (Lab) VPC and subnet Avaiablilty Zone 1a. 
+Under Network settings, Use the (Lab) VPC and subnet Avaiablilty Zone 1a. Then for Firewall (Security groups) click create security group.
 </p>
 <br />
 
