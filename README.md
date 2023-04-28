@@ -118,7 +118,7 @@ Now the EC2 instance is running, you can copy the public IPv4 address for testin
 <br />
 
 <p>
-<img src="https://i.imgur.com/mPvX1xq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9bsy7Fi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Congrats, on creating and launching the Amazon EC2 Instance!.
