@@ -3,7 +3,7 @@
 </p>
 
 <h1>Create and Launch a Amazon EC2 Instance</h1>
-This tutorial outlines the creating and launching of a Amazon EC2 instance.<br />
+This tutorial outlines the creation and launching of an Amazon EC2 instance.<br />
 
 
 <h2>Video Demonstration</h2>
@@ -22,7 +22,7 @@ This tutorial outlines the creating and launching of a Amazon EC2 instance.<br /
 
 <h2>Create and Launching Configuration Objectives</h2>
 
-- Create a Amazon EC2 Instance 
+- Create an Amazon EC2 Instance 
 - Configure a user data script to display the instance details.
 - Launch a second Amazon EC2 instance in a different Availability Zone.
 
@@ -49,7 +49,7 @@ At the EC2 Dashboard, Launch Instance.
 <img src="https://i.imgur.com/hknoErQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Name the EC2 Instance (Webserver01), under application and OS images (AMI) Click on Amazon Linux, then scroll down.
+Name the EC2 Instance (Webserver01), under application, and OS images (AMI). Click on Amazon Linux, then scroll down.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Name the EC2 Instance (Webserver01), under application and OS images (AMI) Click
 <img src="https://i.imgur.com/KPObPZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the drop down arrow, select Amazon Linux 2AMI (HVM)- Kernel 5.10, SSD Volume Type - Free tier eligible, On Instance Type select t2.micro, Then on Key pair (Login) use proceed without a key pair (Not recommended). Scroll Down
+On the drop-down arrow, select Amazon Linux 2AMI (HVM)- Kernel 5.10, SSD Volume Type - Free tier eligible, on Instance Type select t2.micro, Then on Key pair (Login), use proceed without a key pair (Not recommended). Scroll Down
 </p>
 <br />
 
@@ -65,7 +65,7 @@ On the drop down arrow, select Amazon Linux 2AMI (HVM)- Kernel 5.10, SSD Volume 
 <img src="https://i.imgur.com/PdGDTnH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Under Network settings, Use the (Lab) VPC and subnet Avaiablilty Zone 1a. Then for Firewall (Security groups) click create security group.
+Under Network settings, use the (Lab) VPC and subnet Availability Zone 1a. Then, for Firewall (Security groups), click Create Security Group.
 </p>
 <br />
 
@@ -81,7 +81,7 @@ Change the security group name to (Security-Group-Lab), in the description secti
 <img src="https://i.imgur.com/tkPNhwF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Under the advanced network config section scroll down and paste the downloaded code to the user data box.
+Under the advanced network config section, scroll down and paste the downloaded code into the user data box.
 </p>
 <br />
 
@@ -105,7 +105,7 @@ Review the EC2 instance before launching.
 <img src="https://i.imgur.com/mPvX1xq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You should get a success launch, if all information was correctly entered.
+You should get a successful launch if all information was correctly entered.
 </p>
 <br />
 
@@ -121,6 +121,6 @@ Now the EC2 instance is running, you can copy the public IPv4 address for testin
 <img src="https://i.imgur.com/9bsy7Fi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Congrats, on creating and launching the Amazon EC2 Instance!.
+Congrats on creating and launching the Amazon EC2 Instance!.
 </p>
 <br />
